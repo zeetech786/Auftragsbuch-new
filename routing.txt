@@ -1,0 +1,37 @@
+routing Server : http://10.151.128.61/app_dev.php/de/tict/info/
+-----------------------------------------------------
+2306799343982996 861375862
+php explode trim powershell scripting persis
+Routing Einstellung
+Resources->config->routing.yml
+TictBundle->Controller->DefaultController.php
+Views->Default->new.html.twig
+------------------------------------------
+MobaXterm commands:
+php app/console doctrine:schema:update --force
+
+-git status
+-git reset --hard
+-git clean -f
+-git pull
+-sudo git pull 
+
+tco
+3 new entity
+
+how to import excel file data to database.
+
+remotedesktopverbindung
+deora 12
+virtuellbox
+->start
+
+
+create new enity
+backoffice.php
+mandotory ort not
+
+varchar
+sm
+
+
